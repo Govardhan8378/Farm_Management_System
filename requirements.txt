@@ -5,7 +5,7 @@ pandas
 joblib
 numpy
 streamlit-option-menu
-googletrans==4.0.0-rc1
+googletrans
 deep-translator
 matplotlib
 seaborn
