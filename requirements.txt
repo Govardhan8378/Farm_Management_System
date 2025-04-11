@@ -1,0 +1,12 @@
+streamlit
+pymysql
+hashlib
+pandas
+joblib
+numpy
+streamlit-option-menu
+googletrans==4.0.0-rc1
+deep-translator
+matplotlib
+seaborn
+google-generativeai
