@@ -5,8 +5,6 @@ pandas
 joblib
 numpy
 streamlit-option-menu
-googletrans
 deep-translator
 matplotlib
 seaborn
-google-generativeai
